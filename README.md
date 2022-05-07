@@ -11,6 +11,7 @@ A few resources to get you started if this is your first Flutter project:
 ## ✍ To dos
 - [ ] Add video playing feature in second section
 - [ ] Need to work on the remaining UI designs
+- [ ] Make application/website responsive to all screen sizes
 
 ## 📱 Screenshots
 <img src="assets/ui_imgs/home.png" alt="Home Page" width="800"/><br><br>
